@@ -13,7 +13,7 @@ const hour_span = document.querySelector("#hours");
 const min_span = document.querySelector("#min");
 const sec_span = document.querySelector("#sec"); 
 
-// ttext content
+// text content
 heading.innerHTML = "Age Calculator";
 sub_heading.innerHTML = "Get your age in different units";
 cal.innerHTML = "Calculate";
